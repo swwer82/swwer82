@@ -2,7 +2,7 @@
 
     class Program{
         static void Main(string[]args){
-            Console.WriteLine("Helli world");
+            Console.WriteLine("Hello world");
         }
     }
 }
